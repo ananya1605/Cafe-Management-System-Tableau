@@ -58,7 +58,7 @@ It helps stakeholders **minimize food wastage**, **monitor inventory usage**, an
 
 ## **Author**
 **Ananya Rana**  
-B.Tech CSE(AI) Student 
+B.Tech CSE (AI) Student 
 
 
 
